@@ -4,7 +4,9 @@ permalink: /aktuelles/geburtstagsfruehstueck
 date: '2021-04-01 17:28:23 +0100'
 author: Dominik Lenhardt
 ---
-D wir in letzter zeit oft gefragt werden, was Sie als Geburtstagsfrühstück vorbereiten können, haben wir Ihnen hier ein paar Schläge/Ideen erarbeitet. Die Eltern, die etwas vorbereiten wollen, können sich daraus selbst aussuchen und kombinieren was Sie davon mitbringen möchten. Für Rückfragen stehen wir Ihnen jederzeit zur Verfügung. 
+**Bitte während der Pandemiesituation mit den Erziehern absprechen**
+
+Da wir in letzter zeit oft gefragt werden, was Sie als Geburtstagsfrühstück vorbereiten können, haben wir Ihnen hier ein paar Schläge/Ideen erarbeitet. Die Eltern, die etwas vorbereiten wollen, können sich daraus selbst aussuchen und kombinieren was Sie davon mitbringen möchten. Für Rückfragen stehen wir Ihnen jederzeit zur Verfügung. 
 
 ## Vorschläge
 1.	Brötchen / Brezeln / Knäckebrot
