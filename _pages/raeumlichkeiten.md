@@ -1,5 +1,5 @@
 ---
-permalink: /einrichtung/raeumlichkeiten
+permalink: /einrichtung/raeumlichkeiten/
 title: "Räumlichkeiten der Schlosszwerge"
 author_profile: true
 sidebar:

@@ -3,7 +3,7 @@ permalink: /einrichtung/vereinsgeschichte/
 title: "So sind die Schlosszwerge entstanden"
 author_profile: true
 sidebar:
-  nav: "sidebar_index"
+  nav: "sidebar_einrichtung"
 ---
 Der Verein „Die Schlosszwerge e.V.“ wurde am 12.09.2004 von neun Müttern aus Heusenstamm gegründet.
  
