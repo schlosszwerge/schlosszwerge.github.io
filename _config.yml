@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "schlosszwerge" # "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "de-DE"
-title                    : ""
+title                    : "Die Schlosszwerge e.V."
 title_separator          : "|"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Die Schlosszwerge e.V."
