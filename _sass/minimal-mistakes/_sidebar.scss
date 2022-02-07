@@ -19,12 +19,23 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    //opacity: 0.75;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
-    &:hover {
-      opacity: 1;
+    // &:hover {
+    //   opacity: 0.5;
+    // }
+
+    a {
+      margin: 0px;
+      padding: 0px 0px;
+
+      &:hover {
+        opacity: 0.7;
+        //text-decoration: underline;
+        color: #1f99ca;
+      }
     }
 
     &.sticky {

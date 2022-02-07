@@ -1,7 +1,7 @@
 ---
 permalink: /impressum/
 title: "Impressum"
-author_profile: true
+layout: splash
 ---
 ## Angaben gemäß § 5 TMG:
 Die Schlosszwerge e.V.<br>

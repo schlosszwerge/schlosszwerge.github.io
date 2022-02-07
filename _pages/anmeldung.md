@@ -1,7 +1,7 @@
 ---
 permalink: /anmeldung/
 title: "Wie man ein Schlosszwerg wird?"
-author_profile: false
+author_profile: true
 ---
 An uns direkt gerichtete Anmeldungen für einen Betreuungsplatz können wir leider nicht berücksichtigen. Die Anmeldung für einen Platz bei den Schlosszwergen ist ausschließlich über das Internetportal [WEB KITA](https://www.webkita2.de/heusenstamm) möglich.
 
