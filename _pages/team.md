@@ -14,24 +14,33 @@ Die fachliche Arbeit wird durch jährlich stattfindende Konzeptionstage sowie Qu
  
 Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Arbeit ein.
 
-## Leitung
-
-|------------------|-------------------------------------------|
-| Anja Folkers     | stellv. Leitung                           |
-| Roswitha Hoos    | Verwaltung                                |
-
 ## Erzieher
 
 |------------------|-------------------------------------------|
-| Michi            | Krippe                                    |
-| Ramona           | Krippe                                    |
-| Caro             | Kindergarten                              |
+| ![Anika](/assets/images/workers/Anika.jpg) | |
+| ![Caro](/assets/images/workers/Caro.jpg) | |
+| ![Enny](/assets/images/workers/Enny.jpg) | |
+| ![Franzi](/assets/images/workers/Franzi.jpg) | |
+| ![Karin](/assets/images/workers/Karin.jpg) | |
+| ![Laura B](/assets/images/workers/Laura_B.jpg) | |
+| ![Mika](/assets/images/workers/Mika.jpg) | |
+| ![Ramona](/assets/images/workers/Ramona.jpg) | |
+| ![Sabine](/assets/images/workers/Sabine.jpg) | |
+
+
+## Leitung
+
+|------------------|-------------------------------------------|
+| ![Roswita](/assets/images/workers/Roswita.jpg) | |
+| ![Anja](/assets/images/workers/Anja.jpg) | |
+| ![Christopher](/assets/images/workers/Christopher.jpg) | |
+
+
 
 ## Vorstand
 
 |------------------|-------------------------------------------|
 | Sabine Banck     | Personalwesen                             |
 | Jana Vogel       | Mitglieder und PR                         |
-| Hela Ehrenberg   | Veranstaltungen und Öffentlichkeitsarbeit |
 | Aram Muradian    | Finanzwesen                               |
 | Dominik Lenhardt | Technik und Öffentlichkeitsarbeit         |
