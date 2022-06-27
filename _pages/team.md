@@ -14,7 +14,6 @@ Die fachliche Arbeit wird durch jährlich stattfindende Konzeptionstage sowie Qu
  
 Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Arbeit ein.
 
-<div style="text-align: center;">
 ## Erzieher
 **Anika**<br>
   [![Anika](/assets/images/workers/Anika_klein.jpg "Anika")](/assets/images/workers/Anika.jpg)
@@ -53,9 +52,9 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Christopher (Leitung)**<br>
   [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
 
-</div>
 
 ## Vorstand
+
 | Name | Function |
 |------------------|-------------------------------------------|
 | Sabine Banck     | Personalwesen                             |
