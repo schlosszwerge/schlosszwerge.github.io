@@ -42,7 +42,7 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Sabine**<br>
   [![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg)
 
-## Leitung
+## Verwaltung / Leitung
 **Roswita (Verwaltung)**<br>
   [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg)
   
