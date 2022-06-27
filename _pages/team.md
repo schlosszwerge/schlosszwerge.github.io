@@ -15,26 +15,45 @@ Die fachliche Arbeit wird durch jährlich stattfindende Konzeptionstage sowie Qu
 Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Arbeit ein.
 
 ## Erzieher
-| |
-| --- |
-| Anika [![Anika](/assets/images/workers/Anika_klein.jpg)](/assets/images/workers/Anika.jpg) |
-| Caro [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg) |
-| Enny [![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg) |
-| Frani [![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg) |
-| Karin [![Karin](/assets/images/workers/Karin_klein.jpg)](/assets/images/workers/Karin.jpg) |
-| Laura B. [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg) |
-| Mika [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg) |
-| Ramona [![Ramona](/assets/images/workers/Ramona_klein.jpg)](/assets/images/workers/Ramona.jpg) |
-| Sabine[![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg) |
+**Anika**<br>
+  [![Anika](/assets/images/workers/Anika_klein.jpg "Anika")](/assets/images/workers/Anika.jpg)
+
+**Caro**<br>
+  [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
+
+**Enny**<br>
+  [![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg)
+
+**Frani**<br>
+  [![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg)
+
+**Karin**<br>
+  [![Karin](/assets/images/workers/Karin_klein.jpg)](/assets/images/workers/Karin.jpg)
+
+**Laura B.**<br>
+  [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
+
+**Mika**<br>
+  [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg)
+
+**Ramona**<br>
+  [![Ramona](/assets/images/workers/Ramona_klein.jpg)](/assets/images/workers/Ramona.jpg)
+
+**Sabine**<br>
+  [![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg)
+
 ## Leitung
-| |
-| --- |
-| Roswita (Verwaltung) [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg) |
-| Anja (stelv. Leitung) [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg) |
-| Christopher (Leitung) [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg) |
+**Roswita (Verwaltung)**<br>
+  [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg)
+  
+**Anja (stelv. Leitung)**<br>
+  [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
+  
+**Christopher (Leitung)**<br>
+  [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
 
 ## Vorstand
-
+| Name | Function |
 |------------------|-------------------------------------------|
 | Sabine Banck     | Personalwesen                             |
 | Jana Vogel       | Mitglieder und PR                         |
