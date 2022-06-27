@@ -16,22 +16,20 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 
 ## Erzieher
 
-|------------------|-------------------------------------------|
-| [![Anika](/assets/images/workers/Anika_klein.jpg)](/assets/images/workers/Anika.jpg) | |
-| [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg) | |
-| [![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg) | |
-| [![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg) | |
-| [![Karin](/assets/images/workers/Karin_klein.jpg)](/assets/images/workers/Karin.jpg) | |
-| [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg) | |
-| [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg) | |
-| [![Ramona](/assets/images/workers/Ramona_klein.jpg)](/assets/images/workers/Ramona.jpg) | |
-| [![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg) | |
+[![Anika](/assets/images/workers/Anika_klein.jpg)](/assets/images/workers/Anika.jpg)
+[![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
+[![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg)
+[![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg)
+[![Karin](/assets/images/workers/Karin_klein.jpg)](/assets/images/workers/Karin.jpg)
+[![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
+[![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg)
+[![Ramona](/assets/images/workers/Ramona_klein.jpg)](/assets/images/workers/Ramona.jpg)
+[![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg)
 ## Leitung
 
-|------------------|-------------------------------------------|
-| [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg) | |
-| [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg) | |
-| [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg) | |
+[![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg)
+[![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
+[![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
 
 ## Vorstand
 
