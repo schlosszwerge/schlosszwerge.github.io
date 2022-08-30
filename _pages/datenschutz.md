@@ -60,7 +60,7 @@ layout: splash
 <p>63150 Heusenstamm</p>
 <p>Deutschland</p>
 <p>Tel.: +4961046072150 und +4961046072151</p>
-<p>E-Mail: <a href="mailto:kontakt@schlosszwerge.de?Subject=Datenschutz schlosszwerge.de">kontakt (AT) schlosszwerge (PUNKT) de</a><br></p>
+<p>E-Mail: <a href="mailto:kontakt@schlosszwerge.de?Subject=Datenschutz schlosszwerge.de">kontakt (at) schlosszwerge (dot) de</a><br></p>
 <p>Website: schlosszwerge.de</p>
 
 <h4>3. Cookies</h4>

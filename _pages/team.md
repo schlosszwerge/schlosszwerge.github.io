@@ -18,6 +18,9 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Anika**<br>
   [![Anika](/assets/images/workers/Anika_klein.jpg "Anika")](/assets/images/workers/Anika.jpg)
 
+**Anja (stelv. Leitung)**<br>
+  [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
+
 **Caro**<br>
   [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
 
@@ -36,21 +39,17 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Mika**<br>
   [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg)
 
-**Ramona**<br>
-  [![Ramona](/assets/images/workers/Ramona_klein.jpg)](/assets/images/workers/Ramona.jpg)
-
 **Sabine**<br>
   [![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg)
 
 ## Verwaltung / Leitung
 **Roswita (Verwaltung)**<br>
   [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg)
-  
-**Anja (stelv. Leitung)**<br>
-  [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
-  
+
 **Christopher (Leitung)**<br>
   [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
+
+
 
 
 ## Vorstand

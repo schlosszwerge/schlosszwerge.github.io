@@ -10,7 +10,7 @@ Im Herrngarten 1b<br>
 63150 Heusenstamm<br>
 
 #### Kontakt:
-E-Mail: <a href="mailto:kontakt@schlosszwerge.de?Subject=Impressum schlosszwerge.de">kontakt (AT) schlosszwerge (PUNKT) de</a><br>
+E-Mail: <a href="mailto:kontakt@schlosszwerge.de?Subject=Impressum schlosszwerge.de">kontakt (at) schlosszwerge (dot) de</a><br>
 Telefon: +49 (6104) 607 2150 oder 607 2151
 
 #### Registereintrag
@@ -25,14 +25,13 @@ IBAN: DE88 5056 1315 0006 0703 10<br>
 BIC: GENODE51OBH
 
 ## Der Vorstand
-Sabine Banck - Personal<br>
-Jana Vogel - Mitglieder<br>
-Hela Ehrenberg - Veranstaltungen<br>
-Aram Muradian - Finanzen<br>
-Dominik Lenhardt - Technik
+Sabine Banck<br>
+Jana Vogel<br>
+Aram Muradian<br>
+Dominik Lenhardt
 
 #### Kontakt:
-E-Mail: <a href="mailto:vorstand@schlosszwerge.de?Subject=Impressum schlosszwerge.de">vorstand (AT) schlosszwerge (PUNKT) de</a><br>
+E-Mail: <a href="mailto:vorstand@schlosszwerge.de?Subject=Impressum schlosszwerge.de">vorstand (at) schlosszwerge (dot) de</a><br>
 
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:

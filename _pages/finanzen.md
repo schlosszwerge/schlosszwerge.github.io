@@ -22,5 +22,3 @@ Wir freuen uns über Zuwendungen jeder Art. Ob Geld- oder Sachspenden: Ihre Spen
 ## Unterstützer
 
 Wir Danken allen Sponsoren, die uns unterstützen recht herzlich! 
- 
-[![Abaco Heusenstamm](/assets/images/sponsor_abaco.jpg)](http://www.abaco-heusenstamm.de)  [![SunUp Club](/assets/images/sponsor_sunup.png)](http://www.sunup-club.de)
