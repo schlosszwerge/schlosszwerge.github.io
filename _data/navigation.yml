@@ -18,8 +18,6 @@ sidebar_index:
     children:
       - title: "So finden sie uns"
         url: /unsfinden/
-      - title: "Kontakt"
-        urL: /kontakt/
       - title: "Impressum"
         url: /impressum/
       - title: "Datenschutz"
