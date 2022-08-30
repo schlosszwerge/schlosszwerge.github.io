@@ -6,10 +6,10 @@ main:
     url: /aktuelles/
   - title: "Anmeldung/Mitglied werden"
     url: /anmeldung/
-  # - title: "Impressum"
-  #   url: /impressum/
-  # - title: "Datenschutz"
-  #   url: /datenschutz/
+  - title: "Impressum"
+    url: /impressum/
+  - title: "Datenschutz"
+    url: /datenschutz/
 # sidebars
 # the name "sidebar" is free and add them to the page, where you want an submenu
 sidebar_index:

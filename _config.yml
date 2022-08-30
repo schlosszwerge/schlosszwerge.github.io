@@ -104,17 +104,16 @@ author:
   name             : 
   avatar           : "/assets/images/logo_mittel.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
-    Im Herrngarten 1b<br>
+    <br>Im Herrngarten 1b<br>
     63150 Heusenstamm<br>
     <br>
-    Leitung:<br>
+    <b>Leitung:</b><br>
     Christopher Vogel<br>
-    E-Mail: <a href="mailto:christopher.vogel@heusenstamm.de">Christopher.Vogel (at) heusenstamm (dot) de</a><br>
+    Mail: <a href="mailto:christopher.vogel@heusenstamm.de">Christopher.Vogel (at) heusenstamm (dot) de</a><br>
     <br>
     Tel U3: <a href="tel:+4961046072150">+49 6104 6072150</a><br>
     Tel Ü3: <a href="tel:+4961046072151">+49 6104 6072151</a><br>
-    <br>
-    E-Mail: <a href="mailto:kindergarten@schlosszwerge.de">kindergarten (at) schlosszwerge (dot) de</a><br>
+    Mail: <a href="mailto:kindergarten@schlosszwerge.de">kindergarten (at) schlosszwerge (dot) de</a><br>
   location         : 
   email            : 
   links:
