@@ -18,7 +18,7 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Anika**<br>
   [![Anika](/assets/images/workers/Anika_klein.jpg "Anika")](/assets/images/workers/Anika.jpg)
 
-**Anja (stelv. Leitung)**<br>
+**Anja**<br>
   [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
 
 **Caro**<br>
@@ -27,7 +27,7 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Enny**<br>
   [![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg)
 
-**Frani**<br>
+**Franzi**<br>
   [![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg)
 
 **Karin**<br>
