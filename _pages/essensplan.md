@@ -11,68 +11,68 @@ Bitte beachten Sie, dass wir für die beiden Einrichtungen unterschiedliche Esse
 
 | Datum | Gericht |
 | :--------- | :----------------------------------------------------------- |
-|  | KW 24 |
-| Mo, 13.06. | Pizza Bolognese |
-| Di, 14.06. | Bunte Nudeln mit Käse-Sauce, Gurkensalat in Joghurtdressing |
-| Mi, 15.06. | Chili con Soja mit Mais und Reis |
-| Do, 16.06. | **Fronleichnam -> Einrichtung geschlossen!** |
-| Fr, 17.06. | **Brückentag -> Einrichtung geschlossen!** |
-|  | KW 25 |
-| Mo, 20.06. | Serpentini, Möhrensauce, Eisbergsalat mit Sauerrahmdressing |
-| Di, 21.06. | Kartoffeltaschen mit Frischkäsefüllung und Pfannengemüse |
-| Mi, 22.06. | Farfalle mit Käsesauce, Gurkensalat in Essig-Öl-Dressing |
-| Do, 23.06. | Maisbratlinge,Tomatenreis, Joghurtdip mit Kräuterdip |
-| Fr, 24.06. | Mediterane Reispfanne mit Seelachs, Vollkornreis, Erbsen, Paprika |
-|  | KW 26 |
-| Mo, 27.06. | Pizza |
-| Di, 28.06. | Spirelli mit Florentiener Sauce und Krautsalat |
-| Mi, 29.06. | Blumenkohl-Kartoffel-Auflauf |
-| Do, 30.06. | Gefüllte Pasta mit Tomatensauce und Farmersalat |
-| Fr, 01.07. | **Fortbildung Einrichtung geschlossen!!** |
-|  | KW 27 |
-| Mo, 04.07. | Lasagne Bolognese |
-| Di, 05.07. | Spaghetti Carbonara, Eisbergsalat mit Sauerrahmdressing |
-| Mi, 06.07. | Orientalische Hackfleischpfanne mit Paprika, Bulgur und Joghurtdip |
-| Do, 07.07. | Hacksteak mit Kohlrabi in Rahm und Salzkartoffeln |
-| Fr, 08.07. | Fischstäbchen mit Rahmspinat und Kartoffelpüree |
-|  | KW 28 |
-| Mo, 11.07. | Ravioli mit Tomaten-Spinat-Sauce und Eisbergsalat mit Cocktaildressing |
-| Di, 12.07. | Geschnetzeltes mit Brokkoli und Reis ​|
-| Mi, 13.07. | Chicken Nuggets mit Barbecuesauce, Mais und Reis |
-| Do, 14.07. | Penne mit Champignonsauce, gem. Blattsalat mit italienischem Dressing |
-| Fr, 15.07. | Käsespätzle, Röstzwiebeln, Chinakohl mit Mandarinen |
+|  | KW 36 |
+| Mo, 05.09. | Suppe mit Brötchen |
+| Di, 06.09. | Nudeln mit Käsesoße und gemischter Blattsalat |
+| Mi, 07.09. | Tortellini mit Tomaten Spinat Soße |
+| Do, 08.09. | Grießbrei mit Kirschen |
+| Fr, 09.09. | Kartoffeln mit Pfannengemüse |
+|  | KW 37 |
+| Mo, 12.09. | Champignons in Rahm mit Reis und Gurkensalat |
+| Di, 13.09. | Hähnchen Frischkäse Pfanne mit Reis |
+| Mi, 14.09. | Spaghetti mit Milanese Soße und Krautsalat |
+| Do, 15.09. | Chili Con carne mit Reis |
+| Fr, 16.09. | Kartoffel Spinat Auflauf |
+|  | KW 38 |
+| Mo, 19.09. | Kartoffelgratin mit frischen Möhren Gemüse und Kräuterdip |
+| Di, 20.09. | Spaghetti mit Soja Bolognese und Gurkensalat |
+| Mi, 21.09. | Gyros mit  Reis |
+| Do, 22.09. | Linsengemüse |
+| Fr, 23.09. | Reibekuchen mit Joghurtdip |
+|  | KW 39 |
+| Mo, 26.09. | Börek mit Bulgursalat und Paprikadip |
+| Di, 27.09. | Gulasch mit Rotkohl und Kartoffeln |
+| Mi, 28.09. | Spaghetti Bolognese mit Eisbergsalat |
+| Do, 29.09. | Nudel Brokkoli Auflauf |
+| Fr, 30.09. | Mexikanische Bohnenpfanne |
+|  | KW 40 |
+| Mo, 03.10. | **Feiertag Einrichtung Geschlossen** |
+| Di, 04.10. | Schwäbischer Linseneintopf mit Spätzle und Gemüse |
+| Mi, 05.10. | Chicken Nuggets mit Curry Sauce Erbsen und Reis |
+| Do, 06.10. | Milchreis mit Zimt und Zucker |
+| Fr, 07.10. | Gulaschsuppe mit Brötchen |
 
 ## Essensplan im Kindergarten (Ü3)
 
 | Datum | Gericht |
 | :--------- | :----------------------------------------------------------- |
-|  | KW 24 |
-| Mo, 13.06. | Pizza Bolognese |
-| Di, 14.06. | Bunte Nudeln mit Käse-Sauce, Gurkensalat in Joghurtdressing |
-| Mi, 15.06. | Chili con Soja mit Mais und Reis |
-| Do, 16.06. | Fronleichnam -> Einrichtung geschlossen! |
-| Fr, 17.06. | Brückentag -> Einrichtung geschlossen! |
-|  | KW 25 |
-| Mo, 20.06. | Falaffel, Quinoa-Paprika, Kräuterdip mit Quark |
-| Di, 21.06. | Möhreneintopf |
-| Mi, 22.06. | Farfalle mit Käsesauce, Gurkensalat in Essig-Öl-Dressing |
-| Do, 23.06. | Maisbratlinge, Tomatenreis und Joghurtdio mit Kräuter |
-| Fr, 24.06. | Rührei, Rahmspinat und Kartoffelpüree |
-|  | KW 26 |
-| Mo, 27.06. | Frikadellengulasch mit Nudeln und Aüfelmus |
-| Di, 28.06. | Hähnchenbrust in Barbecuesauce, Mais und Reis |
-| Mi, 29.06. | Gnocci mit Käse-Lauchsauce, Eisbersalat mit Joghurtdressing |
-| Do, 30.06. | Gefüllte Pasta mit Farmersalat |
-| Fr, 01.07. | Fortbildung Einrichtung geschlossen! |
-|  | KW 27 |
-| Mo, 04.07. | Lasagne Bolognese |
-| Di, 05.07. | Spaghetti Carbonara, Eisbergsalat mit Sauerrahmdressing |
-| Mi, 06.07. | Orientalische hackfleischpfanne mit paprika, Bulgur und Joghurtdip |
-| Do, 07.07. | Geckochtes Ei, Grüne Sauce, Salzkartoffeln und Gurkensalat in Joghurtdressing |
-| Fr, 08.07. | Fischstäbchen, Rahmspinat und Kartoffelpüree |
-|  | KW 28 |
-| Mo, 11.07. | Pizza Marherita |
-| Di, 12.07. | Geschnetzeltes mit Brokkoli und Vollkornreis |
-| Mi, 13.07. | Chicken Nuggets, Barecuesauce, Mais und Reis |
-| Do, 14.07. | Cevapcici, Quinoa mit Paprika, Zaziki, gem. Blattsalat mit ital. Dressing |
-| Fr, 15.07. | Käsespätzle, Röstzwiebeln, Chinakohlslat mit Mandarinen |
+|  | KW 36 |
+| Mo, 05.09. | Suppe mit Brötchen |
+| Di, 06.09. | Puten Medaillons in Saucen Marengo Art mit Reis und Brokkoli |
+| Mi, 07.09. | Tortellini mit Tomaten Sauce und Eisbergsalat |
+| Do, 08.09. | Cevapcici mit Quinoa und Blattsalat |
+| Fr, 09.09. | Kartoffel-Sahne-Lauch-Eintopf mit Rindfleischbällchen |
+|  | KW 37 |
+| Mo, 12.09. | Frikadellen mit Blumenkohl und Kartoffeln |
+| Di, 13.09. | Hähnchen Frischkäse Pfanne mit Reis |
+| Mi, 14.09. | Vegetarische Currywurst mit Pommes und Krautsalat |
+| Do, 15.09. | Tortellini mit Tomaten Caprese Sauce und Eisbergsalat |
+| Fr, 16.09. | Kartoffel Spinat Auflauf |
+|  | KW 38 |
+| Mo, 19.09. | Sauerbraten Gulasch mit Nudeln und Apfelmus |
+| Di, 20.09. | Hähnchen Geschnetzeltes mit Reis und Erbsen |
+| Mi, 21.09. | Gyros mit Zaziki und Reis |
+| Do, 22.09. | Linsengemüse |
+| Fr, 23.09. | Seelachsstückchen in Curry Paprika Sauce mit Reis |
+|  | KW 39 |
+| Mo, 26.09. | Bratwürstchen mit Wirsing und Kartoffelbrei |
+| Di, 27.09. | Nudeln mit Tomaten Sauce und Eisbergsalat |
+| Mi, 28.09. | Blumenkohl in holländischer Sauce mit Schinkenwürfeln und Salzkartoffeln |
+| Do, 29.09. | Nudel Brokkoli Auflauf |
+| Fr, 30.09. | Gemüsesuppe mit Brötchen |
+|  | KW 40 |
+| Mo, 03.10. | **Feiertag Einrichtung geschlossen** |
+| Di, 04.10. | Schwäbischer Linseneintopf mit Spätzle und Gemüse |
+| Mi, 05.10. | Chicken Nuggets mit Curry Sauce Erbsen und Reis |
+| Do, 06.10. | Milchreis mit Zimt und Zucker |
+| Fr, 07.10. | Gulaschsuppe mit Brötchen |
