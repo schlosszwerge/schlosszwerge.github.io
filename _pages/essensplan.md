@@ -11,7 +11,7 @@ Bitte beachten Sie, dass wir für die beiden Einrichtungen unterschiedliche Esse
 
 | Datum | Gericht |
 | :--------- | :----------------------------------------------------------- |
-|  | KW 41 |
+|  | KW 42|
 | Mo, 10.10. | Nudeln mit Käsesauce dazu Gurkensalat |
 | Di, 11.10. | Champignons in Rahm mit Reis und Rotkrautsalat |
 | Mi, 12.10. | Falafel mit Quinoa dazu Kräuterdip |
