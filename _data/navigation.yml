@@ -32,8 +32,6 @@ sidebar_einrichtung:
         url: /einrichtung/team/
       - title: "Tagesablauf"
         url: /einrichtung/tagesablauf/
-      - title: "Essensplan"
-        url: /einrichtung/essensplan/
       - title: "Öffnungs- und Schliesszeiten"
         url: /einrichtung/oeffnungszeiten/
       - title: "Räumlichkeiten"
