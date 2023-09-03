@@ -15,11 +15,6 @@ Die fachliche Arbeit wird durch jährlich stattfindende Konzeptionstage sowie Qu
 Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Arbeit ein.
 
 ## Erzieher
-**Anika**<br>
-  [![Anika](/assets/images/workers/Anika_klein.jpg "Anika")](/assets/images/workers/Anika.jpg)
-
-**Anja**<br>
-  [![Anja](/assets/images/workers/Anja_klein.jpg)](/assets/images/workers/Anja.jpg)
 
 **Caro**<br>
   [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
@@ -27,20 +22,11 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Enny**<br>
   [![Enny](/assets/images/workers/Enny_klein.jpg)](/assets/images/workers/Enny.jpg)
 
-**Franzi**<br>
-  [![Franzi](/assets/images/workers/Franzi_klein.jpg)](/assets/images/workers/Franzi.jpg)
-
-**Karin**<br>
-  [![Karin](/assets/images/workers/Karin_klein.jpg)](/assets/images/workers/Karin.jpg)
-
 **Laura B.**<br>
   [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
 
 **Mika**<br>
   [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg)
-
-**Sabine**<br>
-  [![Sabine](/assets/images/workers/Sabine_klein.jpg)](/assets/images/workers/Sabine.jpg)
 
 ## Verwaltung / Leitung
 **Roswita (Verwaltung)**<br>
