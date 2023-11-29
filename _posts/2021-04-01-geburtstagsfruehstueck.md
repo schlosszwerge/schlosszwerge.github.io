@@ -1,7 +1,7 @@
 ---
 title: Ideen Geburtstagsfrühstück
 permalink: /aktuelles/geburtstagsfruehstueck
-date: '2023-11-29 17:28:23 +0100'
+date: '2023-11-29-12:37:23 +0100'
 author: Dominik Lenhardt
 ---
 **Geburtstagsfrühstück**
