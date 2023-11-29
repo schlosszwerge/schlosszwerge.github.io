@@ -17,22 +17,22 @@ Wir behalten uns vor die Terminliste - gerade mit Festen und Aktionen - je nach 
 
 ## Schließzeiten und Termine 2024
 
-| Zeitraum           | Grund                                                                             |
-|--------------------|-----------------------------------------------------------------------------------|
-|Fr, 22.12.2023	     | Letzter Tag vor der Winterschließzeit - Einrichtungen nach dem Essen ab 13:00 Uhr | |                  | geschlossen Abholzeit ab 12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe  |
-|Di, 02.01.2024	     | Erster Tag im neuen Kindergartenjahr                                              |
-|02.04–05.04.2024	   | Schließzeit Ostern Einrichtung geschlossen                                        |
-|Mai 2024	           | Bahnhofsfest (Termin steht noch nicht fest)                                       |
-|Do, 07.03.2024	     | pädagogischer Tag Einrichtung geschlossen                                         |
-|Fr, 08.03.2024	     | pädagogischer Tag Einrichtung geschlossen                                         |
-|Mo, 13.05.2024	     | Fachtag aller Einrichtungen „Thema Inklusion“ Einrichtung geschlossen             |
-|Fr, 10.5.2024	     | Brückentag- Einrichtungen geschlossen                                             |
-|Fr, 31.5.2024	     | Brückentag- Einrichtungen geschlossen                                             |
-|Fr, 14.06.2024	     | Sommerfest Schlosszwerge                                                          |
-|Fr, 09.08.2024	     | Einrichtungen nach dem Essen ab 13:00 Uhr geschlossen. Abholzeit ab                                       12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe                           |
-|12.08. - 23.08.2024 | Sommerschließzeit Einrichtung geschlossen                                         |
-|Fr, 04.10.2024		   | Brückentag Einrichtung geschlossen                                                |
-|Fr, 20.12.24	       | Letzter Tag- Einrichtungen nach dem Essen ab 13:00 Uhr geschlossen.                                       Abholzeit ab 12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe              |
-|Do 02.01.2025	     | Einrichtung geschlossen                                                           |
-|Fr, 03.01.2025		   | Einrichtung geschlossen                                                           |
-|Mo, 06.01.2025	     | Erster Tag im neuen Jahr                                                          |
+| Zeitraum              | Grund                                                                             |
+|-----------------------|-----------------------------------------------------------------------------------|
+|Fr, 22.12.2023	        | Letzter Tag vor der Winterschließzeit - Einrichtungen nach dem Essen ab 13:00 Uhr |                                                                                                      geschlossen Abholzeit ab 12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe  |
+|Di, 02.01.2024	        | Erster Tag im neuen Kindergartenjahr                                              |
+|02.04 – 05.04.2024	    | Schließzeit Ostern Einrichtung geschlossen                                        |
+|Mai 2024	              | Bahnhofsfest (Termin steht noch nicht fest)                                       |
+|Do, 07.03.2024	        | pädagogischer Tag Einrichtung geschlossen                                         |
+|Fr, 08.03.2024	        | pädagogischer Tag Einrichtung geschlossen                                         |
+|Mo, 13.05.2024	        | Fachtag aller Einrichtungen „Thema Inklusion“ Einrichtung geschlossen             |
+|Fr, 10.5.2024	        | Brückentag- Einrichtungen geschlossen                                             |
+|Fr, 31.5.2024	        | Brückentag- Einrichtungen geschlossen                                             |
+|Fr, 14.06.2024	        | Sommerfest Schlosszwerge                                                          |
+|Fr, 09.08.2024	        | Einrichtungen nach dem Essen ab 13:00 Uhr geschlossen. Abholzeit ab 12:00 Uhr                                                                                                            für Kindergarten - ab 11:45 Uhr in der Krippe                                     |
+|12.08. - 23.08.2024    | Sommerschließzeit Einrichtung geschlossen                                         |
+|Fr, 04.10.2024		      | Brückentag Einrichtung geschlossen                                                |
+|Fr, 20.12.24	          | Letzter Tag- Einrichtungen nach dem Essen ab 13:00 Uhr geschlossen.                                                                                                                      Abholzeit ab 12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe              |
+|Do 02.01.2025	        | Einrichtung geschlossen                                                           |
+|Fr, 03.01.2025		      | Einrichtung geschlossen                                                           |
+|Mo, 06.01.2025	        | Erster Tag im neuen Jahr                                                          |
