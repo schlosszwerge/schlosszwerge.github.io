@@ -27,7 +27,7 @@ sidebar_einrichtung:
     #url: /parent-1-page-url/
     children:
       - title: "Essenspläne"
-        url: /einrichtung/essenspläne/
+        url: /einrichtung/essensplaene/
       - title: "Konzept"
         url: /einrichtung/konzept/
       - title: "Das Team"
