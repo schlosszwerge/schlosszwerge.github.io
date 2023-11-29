@@ -7,4 +7,3 @@ sidebar:
 ---
 [Kindergarten](https://www.vitesca.de/kunden/speiseplan-oeffentlich.php?kunde=01708)
 [Krippe](https://www.vitesca.de/kunden/speiseplan-oeffentlich.php?kunde=08575)
-
