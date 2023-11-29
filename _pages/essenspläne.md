@@ -1,6 +1,6 @@
 ---
-permalink: /einrichtung/essensplaene/
-title: "Essensplaene Kiga/Krippe Schlosszwerge e.V."
+permalink: /einrichtung/essenspläne/
+title: "Essenspläne Kiga/Krippe Schlosszwerge e.V."
 author_profile: true
 sidebar:  
   nav: "sidebar_einrichtung"
