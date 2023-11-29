@@ -26,6 +26,8 @@ sidebar_einrichtung:
   - title: "Menü"
     #url: /parent-1-page-url/
     children:
+      - title: "Essenspläne"
+        url: 
       - title: "Konzept"
         url: /einrichtung/konzept/
       - title: "Das Team"
