@@ -5,7 +5,7 @@ date: '2021-10-29 16:55:23 +0100'
 author: Dominik Lenhardt
 ---
 |-----|-----|
-| [![Famly-Die Kita App](/assets/images/aktuelles/care_app.png)](https://www.famly.co/de) | Die Schlosszwerge starten anfang 2022 mit der Kita-App "CARE" ein neues digitales Angebot für Eltern. |
+| [![Famly-Die Kita App](/assets/images/aktuelles/Famly.png)](https://www.famly.co/de) | Die Schlosszwerge starten anfang 2022 mit der Kita-App "CARE" ein neues digitales Angebot für Eltern. |
 
 Die Schlosszwerge starten im Januar ein neues Angebot für die Eltern der betreuten Kinder: Künftig gibt es mit "CARE" eine eigene Kita-App fürs Smartphone, mit der die Familien aus erster Hand und in Echtzeit Informationen aus der Kinderbetreuungseinrichtung erhalten können. Statt Aushängen, die häufig übersehen werden oder Zetteln, die gerne auf Nimmerwiedersehen in Rucksäcken verschwinden setzen wir gemeinsam mit dem Elternbeirat künftig auf eine zeitgemäße Ergänzung der Kommunikation mit unseren Mitgliedern. Auch bei kurzfristigen organisatorischen Änderungen werden Sie so künftig spürbar schneller informiert als über zeitraubende Telefonketten oder stille Post. Mit unserer Kita-App "CARE" haben wir künftig eine saubere Lösung für alle unsere Familien und eine hervorragende Ergänzung zu unserer Homepage.
 
