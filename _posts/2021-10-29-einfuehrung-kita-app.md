@@ -1,7 +1,7 @@
 ---
 title: Die Schlosszwerge führen Kita-App ein
 permalink: /aktuelles/einfuehrung-kita-app
-date: '2021-10-29 16:55:23 +0100'
+date: '2023-11-30 09:00 +0100'
 author: Dominik Lenhardt
 ---
 |-----|-----|
