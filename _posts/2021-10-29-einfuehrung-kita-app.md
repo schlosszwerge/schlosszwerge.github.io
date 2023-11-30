@@ -15,4 +15,4 @@ Datenschutzschutz hat auch bei der Einführung unserer Kita-App "FAmly" höchste
 
 Hier können Sie unsere Kita-App für Ihr Smartphone schon jetzt herunterladen:
 
-[![AppStore](/assets/images/logo_apple.png)](https://apps.apple.com/de/app/famly-app/id807454588)[![PlayStore](/assets/images/logo_google.png)](https://play.google.com/store/apps/details?id=com.beiersdorfgroup.care/)
+[![AppStore](/assets/images/logo_apple.png)](https://apps.apple.com/de/app/famly-app/id807454588)[![PlayStore](/assets/images/logo_google.png)](https://play.google.com/store/search?q=famly+app&c=apps&gl=DE)
