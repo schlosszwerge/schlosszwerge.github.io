@@ -11,6 +11,6 @@ Sie können selbstständig durch die Wochen navigieren, indem Sie die
 Links öffnen. 
 
 
-[Kindergarten](https://www.vitesca.de/kunden/speiseplan-oeffentlich.php?kunde=01708)
+[Kindergarten und Krippe](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_41_Paprika_Speiseplan.pdf)
 
-[Krippe](https://www.vitesca.de/kunden/speiseplan-oeffentlich.php?kunde=08575)
+
