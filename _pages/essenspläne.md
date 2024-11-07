@@ -12,5 +12,5 @@ Links öffnen.
 
 
 [Kindergarten und Krippe KW 45](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_45_Paprika_Speiseplan.pdf)
-[Kindergarten und Krippe KW 46]()
+[Kindergarten und Krippe KW 46](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_46_Paprika_Speiseplan.pdf)
 
