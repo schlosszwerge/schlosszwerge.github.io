@@ -7,7 +7,7 @@ sidebar:
 ---
 Die Schlosszwerge haben von Montag bis Freitag von 07:30 Uhr bis 16:00 Uhr geöffnet.
 
-Bis 09:00 Uhr können die Kinder gebracht, bis spätestens 16:00 Uhr müssen sie abgeholt werden.
+Bis 08:45 Uhr können die Kinder gebracht, bis spätestens 16:00 Uhr müssen sie abgeholt werden.
 
 Jeweils zwei Wochen in den Sommerferien und eine Woche zwischen den Jahren haben die Schlosszwerge geschlossen. Die genauen Schließzeiten werden den Eltern gegen Ende des Vorjahres frühzeitig mitgeteilt.
 
