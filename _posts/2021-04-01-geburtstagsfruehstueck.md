@@ -6,7 +6,7 @@ author: Dominik Lenhardt
 ---
 **Geburtstagsfrühstück**
 
-Da wir in letzter Zeit oft gefragt werden, was Sie als Geburtstagsfrühstück vorbereiten können, haben wir Ihnen hier ein paar Schläge/Ideen erarbeitet. Die Eltern, die etwas vorbereiten wollen, können sich daraus selbst aussuchen und kombinieren was Sie davon mitbringen möchten. Für Rückfragen stehen wir Ihnen jederzeit zur Verfügung. 
+Da wir in letzter Zeit oft gefragt werden, was Sie als Geburtstagsfrühstück vorbereiten können, haben wir Ihnen hier ein paar Vorschläge/Ideen erarbeitet. Die Eltern, die etwas vorbereiten wollen, können sich daraus selbst aussuchen und kombinieren was Sie davon mitbringen möchten. Für Rückfragen stehen wir Ihnen jederzeit zur Verfügung. 
 
 ## Vorschläge
 1.	Brötchen / Brezeln / Knäckebrot
