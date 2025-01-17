@@ -11,6 +11,6 @@ Sie können selbstständig durch die Wochen navigieren, indem Sie die
 Links öffnen. 
 
 
-[Kindergarten und Krippe KW 02](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_02_Paprika_Speiseplan.pdf)
 [Kindergarten und Krippe KW 03](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_03_Paprika_Speiseplan.pdf)
+[Kindergarten und Krippe KW 04](https://vitaminreich.bio/wp-content/uploads/2023/04/KW_04_Paprika_Speiseplan.pdf)
 
