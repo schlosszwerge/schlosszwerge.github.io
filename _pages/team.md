@@ -19,9 +19,8 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Caro**<br>
   [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
 
-
-**Enny**<br>
-  [![Enny](assets/images/workers/Enny_klein.jpg)](assets/images/workers/Enny_klein.jpg)
+**Caro**<br>
+  [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
 
 **Laura B.**<br>
   [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
