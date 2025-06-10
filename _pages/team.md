@@ -35,7 +35,7 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
 **Christopher (Leitung)**<br>
   [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
 
-assets/images/workers/Enny neu.jpg
+
 
 
 ## Vorstand
