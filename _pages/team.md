@@ -20,7 +20,7 @@ Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Ar
   [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
 
 **Enny**<br>
-  [![Enny](https://github.com/schlosszwerge/schlosszwerge.github.io/blob/e592e856a99412285667a871f94aaba6092b7269/assets/images/workers/Ennyneu.jpg)]()
+  [![Enny](/assets/images/workers/Ennyneu.jpg)](/assets/images/workers/Caro.jpg)
 
 **Laura B.**<br>
   [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
