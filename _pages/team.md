@@ -14,30 +14,6 @@ Die fachliche Arbeit wird durch jährlich stattfindende Konzeptionstage sowie Qu
  
 Jedes Teammitglied bringt eigene fachliche Schwerpunkte und Interessen in die Arbeit ein.
 
-## Erzieher
-
-**Caro**<br>
-  [![Caro](/assets/images/workers/Caro_klein.jpg)](/assets/images/workers/Caro.jpg)
-
-**Enny**<br>
-  [![Enny](/assets/images/workers/Ennyneu_klein.jpeg)](/assets/images/workers/Ennyneu.jpg)
-
-**Laura B.**<br>
-  [![Laura B](/assets/images/workers/Laura_B_klein.jpg)](/assets/images/workers/Laura_B.jpg)
-
-**Mika**<br>
-  [![Mika](/assets/images/workers/Mika_klein.jpg)](/assets/images/workers/Mika.jpg)
-
-## Verwaltung / Leitung
-**Roswita (Verwaltung)**<br>
-  [![Roswita](/assets/images/workers/Roswita_klein.jpg)](/assets/images/workers/Roswita.jpg)
-
-**Christopher (Leitung)**<br>
-  [![Christopher](/assets/images/workers/Christopher_klein.jpg)](/assets/images/workers/Christopher.jpg)
-
-
-
-
 ## Vorstand
 
 | Name | Function |
