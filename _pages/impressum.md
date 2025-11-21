@@ -10,7 +10,7 @@ Im Herrngarten 1b<br>
 63150 Heusenstamm<br>
 
 #### Kontakt:
-E-Mail: <a href="mailto:kontakt@schlosszwerge.de?Subject=Impressum schlosszwerge.de">kontakt (at) schlosszwerge (dot) de</a><br>
+E-Mail: <a href="mailto:kontakt@schlosszwerge.com?Subject=Impressum schlosszwerge.com">kontakt (at) schlosszwerge (dot) com</a><br>
 Telefon: +49 (6104) 607 2150 oder 607 2151
 
 #### Registereintrag
@@ -31,7 +31,7 @@ Aram Muradian<br>
 Dominik Lenhardt
 
 #### Kontakt:
-E-Mail: <a href="mailto:vorstand@schlosszwerge.de?Subject=Impressum schlosszwerge.de">vorstand (at) schlosszwerge (dot) de</a><br>
+E-Mail: <a href="mailto:vorstand@schlosszwerge.com?Subject=Impressum schlosszwerge.com">vorstand (at) schlosszwerge (dot) com</a><br>
 
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
