@@ -113,13 +113,13 @@ author:
     <br>
     Tel U3: <a href="tel:+4961046072150">+49 6104 6072150</a><br>
     Tel Ü3: <a href="tel:+4961046072151">+49 6104 6072151</a><br>
-    Mail: <a href="mailto:kindergarten@schlosszwerge.de">kindergarten (at) schlosszwerge (dot) de</a><br>
+    Mail: <a href="mailto:kindergarten@schlosszwerge.com">kindergarten (at) schlosszwerge (dot) com</a><br>
   location         : 
   email            : 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://schlosszwerge.de"
+      # url: "https://schlosszwerge.com"
 
 # sidebar:
 #   - title: "Title"

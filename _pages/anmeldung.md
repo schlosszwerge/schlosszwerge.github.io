@@ -19,4 +19,4 @@ Eine Mitgliedschaft im Verein vor Vertragsbeginn ist Voraussetzung bei der Aufna
 
 Auch ohne Kind in unserer Einrichtung können Sie mitglied des Vereins werden und uns uns unterstützen 
  
-Mehr Information dazu per Mail unter <a href="mailto:mitglieder@schlosszwerge.de?Subject=Vereinsmitgliedschaft">mitglieder (at) schlosszwerge (dot) de</a>.
+Mehr Information dazu per Mail unter <a href="mailto:mitglieder@schlosszwerge.com?Subject=Vereinsmitgliedschaft">mitglieder (at) schlosszwerge (dot) com</a>.
