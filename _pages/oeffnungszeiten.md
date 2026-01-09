@@ -29,7 +29,7 @@ Wir behalten uns vor die Terminliste - gerade mit Festen und Aktionen Schließze
 |Fr, 05.06.2026	          | Brückentag- Einrichtung geschlossen                                               |
 |Fr, 12.06.2026	          | Brückentag- Einrichtung geschlossen                                               |
 |Fr, 24.07.2026	          | Einrichtung nach dem Essen ab 13:00 Uhr geschlossen. Abholzeit ab 12:00 Uhr                                                                                                              für Kindergarten - ab 11:45 Uhr in der Krippe                                     |
-|27.07. bis 07.08.2026    | Sommerschließzeit Einrichtung geschlossen                                         |
+|27.07. - 07.08.2026     	| Sommerschließzeit Einrichtung geschlossen                                         |
 |Fr, 28.08.2026		        | Betriebsausflug Einrichtung geschlossen                                           |
 |Fr, 23.12.2026	          | Letzter Tag- Einrichtung nach dem Essen ab 13:00 Uhr geschlossen.                                                                                                                        Abholzeit ab 12:00 Uhr für Kindergarten - ab 11:45 Uhr in der Krippe              |
 |24.12.2026 bis	01.01.2026| Winterschließzeit Einrichtung geschlossen                                         |
